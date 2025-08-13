@@ -10,31 +10,10 @@ export type CareerItemType = {
   
 export const careerList: Array<CareerItemType> = [
     {
-      company: 'Shanghai Soong Ching Ling School',
-      title: 'Computer Science Teacher',
+      company: '天一成长教育中心',
+      title: 'Math Teacher',
       logo: 'college',
-      start: '2020',
-      end: 'Present'
+      start: '2024',
+      end: '2025'
     },
-    {
-      company: 'Bigo Live',
-      title: 'US Operations',
-      logo: 'coffee',
-      start: '2018',
-      end: '2020'
-    },
-    {
-      company: 'Sinovation Ventures',
-      title: 'Investment Analyst',
-      logo: 'bank',
-      start: '2017',
-      end: '2018'
-    },
-    {
-      company: 'Expedia',
-      title: 'Software Engineer',
-      logo: 'coffee',
-      start: '2015',
-      end: '2017'
-    }
   ]
