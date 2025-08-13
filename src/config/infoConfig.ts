@@ -11,7 +11,7 @@ export const email = '1018258027@qq.com'
 export const githubUsername = 'WErever-kiss'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = '关于我和这个网站'
 export const aboutParagraphs = [
   "Hi!我是Zihan Yang!我目前就读于西安财经大学大数据管理与应用专业本科二年级。",
   '我学习了计算机二级的WPS的全部内容，并且获取了证书。',
@@ -19,9 +19,9 @@ export const aboutParagraphs = [
 ]
 
 // blog
-export const blogHeadLine = "What I've thinking about."
+export const blogHeadLine = "我在想......"
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "我会写一些AI知识，学习经验，以及我的生活。"
 
 // social links
 export type SocialLinkType = {
@@ -33,9 +33,9 @@ export type SocialLinkType = {
 
 export const socialLinks: Array<SocialLinkType> = [
   {
-    name: 'Tiktok',
+    name: '抖音',
     icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    href: '',
   },
   {
     name: 'Bilibili',
