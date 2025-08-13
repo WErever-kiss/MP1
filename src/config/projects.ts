@@ -15,81 +15,59 @@ export type ActivityItemType = {
 }
 
 // Awards
-export const awardsHeadLine = "Awards & Honors"
+export const awardsHeadLine = "奖项 & 荣誉"
 export const awardsIntro = "Recognition for academic and professional achievements."
 
 export const awards: Array<ActivityItemType> = [
   {
-    name: 'Outstanding Teacher Award',
+    name: '计算机二级证书',
     description: '',
     date: '2024',
-    location: 'SCLS, Shanghai',
+    location: '陕西，西安',
   },
   {
-    name: 'Zhui Ying Award',
+    name: '普通话二级甲等',
     description: '',
-    date: '2023',
-    location: 'Qingpu, Shanghai',
+    date: '2024',
+    location: '陕西，西安',
   },
 ]
 
 // Research & Projects
-export const projectHeadLine = "Research & Projects"
+export const projectHeadLine = "研究项目"
 export const projectIntro = "Academic research and technical projects I've worked on."
 
 export const projects: Array<ProjectItemType> = [
   {
-    name: 'Student Final Project Portfolio',
-    description: 'Static website portfolio',
-    link: { href: 'scls-cs.com', label: 'GitHub Cards' },
-    tags: ['Website', 'Next.js', 'TailwindCSS', 'DaisyUI', 'Portfolio']
+    name: '心伴AI智能语音陪伴体',
+    description: 'AI智能体（技术支持来自九天大模型）',
+    link: { href: 'https://jiutian.10086.cn/largemodel/cmstore/#/cmstore/createPage?fullScreen=1&appId=6858bfee4c78b04e5a6f7498&chatMode=llm&isEditAgent=true', label: 'Match' },
+    tags: ['AI', '心理', '智能体', '挑战杯', '九天']
   },
   {
-    name: 'Seeking DNA',
-    description: '2022 SCLS Hackathon',
-    link: { href: 'https://scls-cs.gitbook.io/scls-apcs-lab/lab5-dna', label: 'Hackathon' },
-    tags: ['Hackathon', 'Java']
+    name: '学生信息管理系统与成绩查询系统',
+    description: '',
+    link: { href: 'https://kdocs.cn/l/cpfF3oFdJhsg', label: 'HomeWork System' },
+    tags: ['信息管理', '网站搭建', '信息查询']
   },
   {
-    name: 'Texas Holdem Poker Judge',
-    description: '2024 SCLS Hackathon',
-    link: { href: 'https://onecompiler.com/challenges/42yf4n5yn/scls-hackathon', label: 'Hackathon' },
-    tags: ['Hackathon']
-  },
-  {
-    name: 'AI Camp Course Development',
-    description: 'Developed a comprehensive AI curriculum for high school students, incorporating real-world projects and startup concepts.',
-    link: { href: 'https://scls-cs.gitbook.io/ai-camp', label: 'View Course' },
-    tags: ['Education', 'AI']
+    name: '第十五届大学生三创赛',
+    description: '2024sanchuang',
+    link: { href: 'http://www.3chuang.net/', label: 'Match' },
+    tags: ['三创', '心理']
   },
 ]
 
 // Hobbies & Volunteer
-export const activitiesHeadLine = "Hobbies & Volunteer"
+export const activitiesHeadLine = "爱好 & 志愿经历"
 export const activitiesIntro = "Personal interests and community contributions."
 
 export const activities: Array<ActivityItemType> = [
   {
-    name: 'Python Workshop',
+    name: '陕西省高校秋季招聘会西安财经大学就业协会招聘会摄影部志愿者',
     description:
-      'Teaching basic Python programming concepts to beginners. Covering variables, control flow, and functions.',
-    date: '2024-02-24',
-    location: 'Shanghai',
-    link: 'https://example.com/python-workshop',
-  },
-  {
-    name: 'AI Ethics Discussion',
-    description:
-      'A group discussion about the ethical implications of AI development and its impact on society.',
-    date: '2024-03-01',
-    location: 'Shanghai',
-    link: 'https://example.com/ai-ethics',
-  },
-  {
-    name: 'Code Review Session',
-    description:
-      'Helping students improve their coding skills through peer code review and best practices sharing.',
-    date: '2024-03-15',
-    location: 'Shanghai',
+      '协助现场拍摄，录制相关素材。',
+    date: '2024-10-12',
+    location: '陕西，西安',
   },
 ]
