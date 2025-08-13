@@ -3,19 +3,19 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = 'Zihan Yang'
+export const headline = 'Colleage Student at XUFE'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "Hi!我是Zihan Yang!我目前就读于西安财经大学大数据管理与应用专业本科二年级。"
+export const email = '1018258027@qq.com'
+export const githubUsername = 'WErever-kiss'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "Hi!我是Zihan Yang!我目前就读于西安财经大学大数据管理与应用专业本科二年级。",
+  '我学习了计算机二级的WPS的全部内容，并且获取了证书。',
+  "我将会在这个网站中分享我的学习经验，大多数学习经验会是计算机方面的。",
 ]
 
 // blog
