@@ -13,10 +13,10 @@ export const githubUsername = 'WErever-kiss'
 // about page
 export const aboutMeHeadline = '关于我和这个网站'
 export const aboutParagraphs = [
-  "Nice to meet you!这是我的个人网站！我目前就读于西安财经大学，大数据管理与应用专业，本科二年级。",
+  "Nice to meet you！这是我的个人网站！我目前就读于西安财经大学，大数据管理与应用专业，本科二年级。",
   '我学习了计算机二级的WPS的全部内容，并且获取了证书。',
   "最近我正在学习Python。",
-  "我将会在这个网站中分享我的学习经验，大多数学习经验会是计算机方面的。",
+  "我将会在这个网站中分享我的学习经验，大多数学习经验会是计算机方面的，或是英语方面的 XD",
   '非常感谢Dreke Hu的网站搭建知识分享，也非常感谢Corey Chiu的优秀网站模板!',
 ]
 
