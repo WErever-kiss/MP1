@@ -41,19 +41,19 @@ export const projects: Array<ProjectItemType> = [
   {
     name: '心伴AI智能语音陪伴体',
     description: 'AI智能体（技术支持来自九天大模型）',
-    link: { href: 'https://jiutian.10086.cn/largemodel/cmstore/#/cmstore/createPage?fullScreen=1&appId=6858bfee4c78b04e5a6f7498&chatMode=llm&isEditAgent=true', label: 'Match' },
+    link: { href: 'jiutian.10086.cn/largemodel/cmstore/#/cmstore/createPage?fullScreen=1&appId=6858bfee4c78b04e5a6f7498&chatMode=llm&isEditAgent=true', label: 'Match' },
     tags: ['AI', '心理', '智能体', '挑战杯', '九天']
   },
   {
     name: '学生信息管理系统与成绩查询系统',
     description: '',
-    link: { href: 'https://kdocs.cn/l/cpfF3oFdJhsg', label: 'HomeWork System' },
+    link: { href: 'kdocs.cn/l/cpfF3oFdJhsg', label: 'HomeWork System' },
     tags: ['信息管理', '网站搭建', '信息查询']
   },
   {
     name: '第十五届大学生三创赛',
     description: '2024sanchuang',
-    link: { href: 'http://www.3chuang.net/', label: 'Match' },
+    link: { href: '3chuang.net/', label: 'Match' },
     tags: ['三创', '心理']
   },
 ]
